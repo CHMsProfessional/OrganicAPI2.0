@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../Ingenieria Web III/ProyectoFinal/AccessApi/API/.idea/API_Access.iml" filepath="$PROJECT_DIR$/../../../Ingenieria Web III/ProyectoFinal/AccessApi/API/.idea/API_Access.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/API_OrganicBox.iml" filepath="$PROJECT_DIR$/.idea/API_OrganicBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Ingenieria Web III/ProyectoFinal/RefineriaApi/API_Refineria/.idea/API_Refineria.iml" filepath="$PROJECT_DIR$/../../../Ingenieria Web III/ProyectoFinal/RefineriaApi/API_Refineria/.idea/API_Refineria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../web-3-2024-1/practicadjangorest/.idea/practicadjangorest.iml" filepath="$PROJECT_DIR$/../../../web-3-2024-1/practicadjangorest/.idea/practicadjangorest.iml" />
+    </modules>
+  </component>
+</project>
